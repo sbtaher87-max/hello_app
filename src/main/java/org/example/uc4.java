@@ -6,7 +6,7 @@ public class uc4 {
             for (int i = 0; i < args.length; i++) {
                 nameBuilder.append(args[i]);
                 if (i < args.length - 1) {
-                    nameBuilder.append(", ");
+                    nameBuilder.append("taher ");
                 }
             }
             System.out.println("Hello, " + nameBuilder.toString());
